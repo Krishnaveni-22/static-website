@@ -19,7 +19,7 @@ CSS3 – Custom properties, Grid, Flexbox, animations
 
 JavaScript (ES6+) – Cart logic, DOM interactions
 
-Deployment – AWS S3, Firebase, Netlify, GitHub Pages
+Deployment – cloud 
 
 🌐 Live Demo
 🔗 Website: [Your Deployed URL Here]
