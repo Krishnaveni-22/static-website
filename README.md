@@ -22,5 +22,5 @@ JavaScript (ES6+) – Cart logic, DOM interactions
 Deployment – cloud 
 
 🌐 Live Demo
-🔗 Website: [Your Deployed URL Here]
+🔗 Website: http://51.20.9.59/
 
